@@ -1,0 +1,13 @@
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\TEST\bin\ERP_API.dll.config
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\TEST\bin\ERP_API.dll
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\TEST\bin\ERP_API.pdb
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\TEST\bin\Newtonsoft.Json.dll
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\TEST\obj\Debug\ERP_API.csprojResolveAssemblyReference.cache
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\TEST\obj\Debug\ERP_API.dll
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\TEST\obj\Debug\ERP_API.pdb
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\ERP_API\bin\ERP_API.dll.config
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\ERP_API\bin\ERP_API.dll
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\ERP_API\bin\ERP_API.pdb
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\ERP_API\bin\Newtonsoft.Json.dll
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\ERP_API\obj\Debug\ERP_API.dll
+C:\GNWay\OSP\UserClient\ReceivedFiles\KDDEV\IWebSeiver\ERP_API\obj\Debug\ERP_API.pdb
