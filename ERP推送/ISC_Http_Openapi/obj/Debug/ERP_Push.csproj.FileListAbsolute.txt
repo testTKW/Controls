@@ -1,0 +1,9 @@
+C:\Users\ERP推送\ISC_Http_Openapi\bin\Debug\ISC_Http_Openapi.exe.config
+C:\Users\ERP推送\ISC_Http_Openapi\bin\Debug\ISC_Http_Openapi.exe
+C:\Users\ERP推送\ISC_Http_Openapi\bin\Debug\ISC_Http_Openapi.pdb
+C:\Users\ERP推送\ISC_Http_Openapi\obj\Debug\ERP_Push.csprojResolveAssemblyReference.cache
+C:\Users\ERP推送\ISC_Http_Openapi\obj\Debug\ISC_Http_Openapi.ISC_Http_Openapi.resources
+C:\Users\ERP推送\ISC_Http_Openapi\obj\Debug\ISC_Http_Openapi.Properties.Resources.resources
+C:\Users\ERP推送\ISC_Http_Openapi\obj\Debug\ERP_Push.csproj.GenerateResource.Cache
+C:\Users\ERP推送\ISC_Http_Openapi\obj\Debug\ISC_Http_Openapi.exe
+C:\Users\ERP推送\ISC_Http_Openapi\obj\Debug\ISC_Http_Openapi.pdb

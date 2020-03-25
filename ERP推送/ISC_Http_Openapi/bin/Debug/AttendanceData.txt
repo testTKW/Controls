@@ -1,0 +1,41 @@
+USE [AttendanceDataa]
+GO
+
+/****** Object:  Table [dbo].[AttendeTable]    Script Date: 05/27/2019 17:23:21 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[AttendeTable](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[eventId] [varchar](255) NOT NULL,
+	[eventName] [varchar](255) NOT NULL,
+	[eventTimeDate] [datetime] NOT NULL,
+	[personId] [varchar](255) NOT NULL,
+	[cardNo] [varchar](150) NOT NULL,
+	[personName] [varchar](50) NOT NULL,
+	[orgIndexCode] [varchar](255) NOT NULL,
+	[doorName] [varchar](150) NOT NULL,
+	[doorIndexCode] [varchar](255) NOT NULL,
+	[doorRegionIndexCode] [varchar](255) NOT NULL,
+	[picUri] [varchar](500) NOT NULL,
+	[svrIndexCode] [varchar](255) NOT NULL,
+	[eventType] [varchar](150) NOT NULL,
+	[inAndOutType] [varchar](50) NOT NULL,
+ CONSTRAINT [PK_AttendeTable] PRIMARY KEY CLUSTERED 
+(
+	[Id] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+
